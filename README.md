@@ -1,5 +1,3 @@
-Certainly! Here's a writeup for a Breast Cancer Prediction Model using Logistic Regression:
-
 # Breast Cancer Prediction Model using Logistic Regression
 
 ## Data Collection
